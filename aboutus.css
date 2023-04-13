@@ -1,0 +1,160 @@
+body {
+  background-color: #f0f0f0;
+  background-image: url("donate.jpg");
+  height: 200vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.topic {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.container1 {
+  margin-top: 20px;
+}
+
+.cont1-para {
+  font-family: 'Times New Roman', serif;
+  padding-right: 70px;
+  font-size: 22px;
+  text-align: justify;
+}
+
+.mission-img {
+  width: 100%;
+  height: 100%;
+  padding-left: 70px;
+  border-radius: 5%;
+}
+
+.container2 {
+  margin-top: 50px;
+}
+.div1 {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+}
+
+.div2 {
+	  text-align: center;
+}
+.div3 {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+}
+
+.subheading {
+  font-family: 'Fredoka One', cursive;
+}
+
+.container2 h2 {
+  text-align: center;
+}
+
+.container2 p {
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 17px;
+}
+.help-img {
+  width: 95%;
+  border-radius: 100%;
+}
+.good-img {
+  width: 95%;
+}
+.health-img {
+  width: 95%;
+  border-radius: 100%;
+  padding: 15px 0;
+}
+
+@media screen and (max-width: 900px) {
+  .mission-img {
+    height: 80%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .mission-img {
+    height: 70%;
+  }
+}
+
+@media screen and (max-device-width: 767px) {
+  .mission-img {
+    height: 90%;
+    width: 80%;
+    border-radius: 30px;
+    padding-left: 50%;
+  }
+
+  .cont1-center {
+    text-align: center;
+  }
+
+  .cont1-bottom {
+    padding: 0 50px;
+  }
+
+  .cont1-para {
+    padding-right: 50%;
+    font-size: 25px;
+  }
+
+  .div1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+  }
+  .div2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+  }
+  .div3 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+  }
+
+.help-img {
+    width: 85%;
+  }
+  .good-img {
+    width: 85%;
+  }
+  .health-img {
+    width: 85%;
+  }
+
+  .container2 p {
+    font-size: 21px;
+  }
+}
+footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+footer a {
+  color: #333;
+  text-decoration: none;
+}
