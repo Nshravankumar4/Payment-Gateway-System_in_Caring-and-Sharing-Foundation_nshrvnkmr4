@@ -1,6 +1,6 @@
 # Caring and Sharing-Foundation
 
-Web Development and Designing internship at The Sparks Foundation
+Web Development and Designing 
 
 Task 3 : Payment Gateway Integration
 
@@ -24,5 +24,6 @@ Sincerely,
 
 Nunsavath Shravan Kumar
 
-I would like to thanks The Sparks Foundation for providing me such an opportunity and letting me showcase my skills! #thesparksfoundation
+I would like to thanks The Sparks Foundation for providing me such an opportunity and letting me showcase my skills! 
+
 
